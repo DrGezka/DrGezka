@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrGezka
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Data Analytics project
 - 📫 If you want to reach me, go on my social media IG : @gaizkahishamm
